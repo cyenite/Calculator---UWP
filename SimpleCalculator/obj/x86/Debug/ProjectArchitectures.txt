@@ -1,0 +1,1 @@
+c:\users\techmaster\source\repos\SimpleCalculator\SimpleCalculator\SimpleCalculator.csproj;x86
